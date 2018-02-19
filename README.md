@@ -1,8 +1,3 @@
-# NHS
+# NHS-Python
 
-This repository will hopefully contain useful coding examples (primarily SAS, SQL, Python) for the benefit of other developers within 
-the NHS and Public Healthcare sector.
-
-I am still relatively new to the Python scene so any recommendations for efficiency would be greatly appreciated.
-
-MC
+I am still pretty raw at Python and using this space for trial/error learning so any recommendations to improve any code would be greatly appreciated.
